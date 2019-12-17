@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 57e8de41f48ee924a98bed48502a71c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5074597961030698494
+    second: Mookie_Gris_Neutre_Anim.ai_0
+  - first:
+      213: 6921904279989918165
+    second: Mookie_Gris_Neutre_Anim.ai_1
+  - first:
+      213: 6679002871099857716
+    second: Mookie_Gris_Neutre_Anim.ai_2
+  - first:
+      213: 7535993960018699460
+    second: Mookie_Gris_Neutre_Anim.ai_3
+  - first:
+      213: -983557281242546107
+    second: Mookie_Gris_Neutre_Anim.ai_4
+  - first:
+      213: -8835936739950485171
+    second: Mookie_Gris_Neutre_Anim.ai_5
+  - first:
+      213: 2677539259767000657
+    second: Mookie_Gris_Neutre_Anim.ai_6
+  - first:
+      213: 7235108288227283196
+    second: Mookie_Gris_Neutre_Anim.ai_7
+  - first:
+      213: -7886207495843492252
+    second: Mookie_Gris_Neutre_Anim.ai_8
+  - first:
+      213: -8437407072467568145
+    second: Mookie_Gris_Neutre_Anim.ai_9
+  - first:
+      213: -2219498495589023343
+    second: Mookie_Gris_Neutre_Anim.ai_10
+  - first:
+      213: -1705524377618640092
+    second: Mookie_Gris_Neutre_Anim.ai_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1122
+        width: 782
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108476d9477206c4a8ff477c981260da
+      internalID: 5074597961030698494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1117
+        width: 782
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae7b2756e95d064c945e7f228e8238f
+      internalID: 6921904279989918165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_2
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1117
+        width: 776
+        height: 1052
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e51ac39bd39f40b79267a5b43fa9e
+      internalID: 6679002871099857716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_3
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1098
+        width: 433
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb20bb186fb2744bc1232c8f4ac666
+      internalID: 7535993960018699460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_4
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 1091
+        width: 434
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36efd420193cef54cafc41c0f197d885
+      internalID: -983557281242546107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_5
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 1081
+        width: 433
+        height: 1058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72029ff0a5b4c4f95100d54ac0278a
+      internalID: -8835936739950485171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 781
+        height: 1052
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc46915b5550d438c8f26dd9f9318f
+      internalID: 2677539259767000657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1
+        width: 783
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c0f5ee506584458e3ce90052f89e1
+      internalID: 7235108288227283196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_8
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 0
+        width: 777
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022b7a5bc50fde94594b1a92bc9e6f0e
+      internalID: -7886207495843492252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_9
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 38
+        width: 434
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c6528e5c43e1479cba250f93c2541
+      internalID: -8437407072467568145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_10
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 48
+        width: 432
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c1b78dcde060419c10489ab424bfa
+      internalID: -2219498495589023343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mookie_Gris_Neutre_Anim.ai_11
+      rect:
+        serializedVersion: 2
+        x: 4561
+        y: 57
+        width: 430
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999b81958093374688a2dce1f2162f1
+      internalID: -1705524377618640092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2aff780f7b032a24aaaddee293385c2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
